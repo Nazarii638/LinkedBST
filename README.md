@@ -1,0 +1,2 @@
+# LinkedBST
+Realisation of LinkedBST
